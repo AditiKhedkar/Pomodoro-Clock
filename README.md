@@ -11,20 +11,7 @@ Icons: Lucide React
 
 Project Structure
 
-src/
-├── components/          # Reusable UI components
-│   ├── CircularProgress.tsx    # SVG-based progress ring
-│   ├── SessionTracker.tsx      # Session completion dots
-│   ├── Settings.tsx           # Configuration modal
-│   └── Timer.tsx              # Main timer display
-├── hooks/              # Custom React hooks
-│   ├── useSound.ts           # Web Audio API notifications
-│   └── useTimer.ts           # Timer state management
-├── types/              # TypeScript definitions
-│   └── index.ts              # Core interfaces
-├── utils/              # Constants and utilities
-│   └── constants.ts          # Default settings & colors
-└── App.tsx             # Root component
+
 Core Components
 Timer State Management (useTimer)
 State: Session type, time remaining, completion tracking
