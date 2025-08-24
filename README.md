@@ -1,5 +1,6 @@
 # Pomodoro-Clock
-![Uploading image.png…]()
+<img width="631" height="415" alt="image" src="https://github.com/user-attachments/assets/57b43db2-b050-460b-a8d2-468986154d24" />
+
 
 Pomodoro Timer - Technical Documentation
 Architecture Overview
