@@ -1,4 +1,6 @@
 # Pomodoro-Clock
+![Uploading image.png…]()
+
 Pomodoro Timer - Technical Documentation
 Architecture Overview
 Framework: React 18 with TypeScript
