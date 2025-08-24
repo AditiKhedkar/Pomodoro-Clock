@@ -1,0 +1,12 @@
+<div class="pomodoro-container">
+  <h1>{{ isWorkSession ? 'Work Session' : 'Break Time' }}</h1>
+  <div class="timer">
+    {{ minutes }}:{{ seconds }}
+  </div>
+
+  <div class="controls">
+    <button (click)="start()" [disabled]="isRunning">Start</button>
+    <button (click)="pause()" [disabled]="!isRunning">Pause</button>
+    <button (click)="reset()">Reset</button>
+  </div>
+</div>
